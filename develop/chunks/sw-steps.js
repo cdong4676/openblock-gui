@@ -1,1035 +1,1035 @@
 (window["webpackJsonpGUI"] = window["webpackJsonpGUI"] || []).push([[11],{
 
-/***/ 2009:
+/***/ 1989:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/074e6f8245cb1506deafdeac71991a5d.gif";
 
 /***/ }),
 
-/***/ 2022:
+/***/ 2002:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/99041652f36815b1702b8bc7f019f625.gif";
 
 /***/ }),
 
-/***/ 2888:
+/***/ 2868:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/b2935b0787ff373cc04c7d2c92de9adb.gif";
 
 /***/ }),
 
-/***/ 2889:
+/***/ 2869:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/8c2a390eb09d64bc13f4cfa3283fc33f.gif";
 
 /***/ }),
 
-/***/ 2890:
+/***/ 2870:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/5fdb7c093bfefc2c00ef83fd4c34199e.gif";
 
 /***/ }),
 
-/***/ 2891:
+/***/ 2871:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/8628ba88ec9dc2777d0e37646513fbb6.png";
 
 /***/ }),
 
-/***/ 2892:
+/***/ 2872:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/873d80b60c072af2e25f0ef2a6b38682.png";
 
 /***/ }),
 
-/***/ 2893:
+/***/ 2873:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/fd0765acc2eb99d7f88d1a1b236d10c2.png";
 
 /***/ }),
 
-/***/ 2894:
+/***/ 2874:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/c3786aedc4f52d309d7d570dbaf0f6a5.png";
 
 /***/ }),
 
-/***/ 2895:
+/***/ 2875:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/795573a9d2fee5058a63cf5ec067fa3e.png";
 
 /***/ }),
 
-/***/ 2896:
+/***/ 2876:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/cdad5959f5916f1de3a6e086b7756c2c.png";
 
 /***/ }),
 
-/***/ 2897:
+/***/ 2877:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/4901090d1df378dc333fab656582c5b9.png";
 
 /***/ }),
 
-/***/ 2898:
+/***/ 2878:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/1b636eacc3c2152c793b7100d0ef5f3d.png";
 
 /***/ }),
 
-/***/ 2899:
+/***/ 2879:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/df119834537bf98c8c02f09b1dc40b63.png";
 
 /***/ }),
 
-/***/ 2900:
+/***/ 2880:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/e47cd5bd430206cefd3a8a5cb4af9138.png";
 
 /***/ }),
 
-/***/ 2901:
+/***/ 2881:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/f6af8ce94d2a2019c213cf2c0df908b4.png";
 
 /***/ }),
 
-/***/ 2902:
+/***/ 2882:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/a8547a49cb272a0281b7eab3144043ca.png";
 
 /***/ }),
 
-/***/ 2903:
+/***/ 2883:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/7691e0682d3855f163ceee281d61e23b.png";
 
 /***/ }),
 
-/***/ 2904:
+/***/ 2884:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/4edd383da41c26587d94ac5fdfbc3450.png";
 
 /***/ }),
 
-/***/ 2905:
+/***/ 2885:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/ec6a73c85e83c5db5a1db7134eca25ec.png";
 
 /***/ }),
 
-/***/ 2906:
+/***/ 2886:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/b5c0d259d78d3d6b7c74e52ccb376a03.png";
 
 /***/ }),
 
-/***/ 2907:
+/***/ 2887:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/169f7755a820bb597640f838ccc34af6.png";
 
 /***/ }),
 
-/***/ 2908:
+/***/ 2888:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/3bf6b664e3628a62c4bc3f6a67b5c2b6.png";
 
 /***/ }),
 
-/***/ 2909:
+/***/ 2889:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/3d3081fcfb0e88e0c6806aad45d405d2.png";
 
 /***/ }),
 
-/***/ 2910:
+/***/ 2890:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/4c3354f5536cc0d79df7350b80aa3ef1.png";
 
 /***/ }),
 
-/***/ 2911:
+/***/ 2891:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/fcee2fa04b9ae2811c2bd347df8def5e.png";
 
 /***/ }),
 
-/***/ 2912:
+/***/ 2892:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/c12e386b8137e71b289edca2cca5e500.png";
 
 /***/ }),
 
-/***/ 2913:
+/***/ 2893:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/14ff92731b3e54b249ce2d428a3f0f95.png";
 
 /***/ }),
 
-/***/ 2914:
+/***/ 2894:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/af02bfe244cded0b63202aa8d0a6ae5a.png";
 
 /***/ }),
 
-/***/ 2915:
+/***/ 2895:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/3947903ddb159c7e7cd203eb79bda07f.png";
 
 /***/ }),
 
-/***/ 2916:
+/***/ 2896:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/ea952837ca442a3d64ab17637b787d36.png";
 
 /***/ }),
 
-/***/ 2917:
+/***/ 2897:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/9918a0206cbd34617d1e61ca58357076.png";
 
 /***/ }),
 
-/***/ 2918:
+/***/ 2898:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/af064208b0423eea068b4aa07d183364.png";
 
 /***/ }),
 
-/***/ 2919:
+/***/ 2899:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/1dfc1f73867cf8259be121b6b227a2c7.png";
 
 /***/ }),
 
-/***/ 2920:
+/***/ 2900:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/d02e782a95bdc8bfb7157ad4b92acceb.png";
 
 /***/ }),
 
-/***/ 2921:
+/***/ 2901:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/de787f0af75a8a6da1e40057c7b01199.png";
 
 /***/ }),
 
-/***/ 2922:
+/***/ 2902:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/ec5a678c6318ecbe41949e7e89ae50cf.png";
 
 /***/ }),
 
-/***/ 2923:
+/***/ 2903:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/b3cd90ba16ab503943c4b0e87b5df175.png";
 
 /***/ }),
 
-/***/ 2924:
+/***/ 2904:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/e750462991209bc82f6d0ab0783943c0.png";
 
 /***/ }),
 
-/***/ 2925:
+/***/ 2905:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/6109659703109e02be27d559070ca726.png";
 
 /***/ }),
 
-/***/ 2926:
+/***/ 2906:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/a662913c45d963c9548f434c825634b7.png";
 
 /***/ }),
 
-/***/ 2927:
+/***/ 2907:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/865309ebdabe1a08b6ae2a7fa8bc4cdf.png";
 
 /***/ }),
 
-/***/ 2928:
+/***/ 2908:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/777b12b55dd69be2a1707d31774c71d1.gif";
 
 /***/ }),
 
-/***/ 2929:
+/***/ 2909:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/88fc2b4cf2491304618a71d2c94acc68.png";
 
 /***/ }),
 
-/***/ 2930:
+/***/ 2910:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/b9c886ce0382819a2ae97120a2ba0a7a.png";
 
 /***/ }),
 
-/***/ 2931:
+/***/ 2911:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/ae21bd02fff4276409bea90e620da158.png";
 
 /***/ }),
 
-/***/ 2932:
+/***/ 2912:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/d81d8e89d3322c6270e5967a1711403f.png";
 
 /***/ }),
 
-/***/ 2933:
+/***/ 2913:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/00cb48b561d398f7e9570ebaeba16211.gif";
 
 /***/ }),
 
-/***/ 2934:
+/***/ 2914:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/36770e433b22fecc706efd99c78bcd44.png";
 
 /***/ }),
 
-/***/ 2935:
+/***/ 2915:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/cb64c5d445f740053b5079d9331e2607.png";
 
 /***/ }),
 
-/***/ 2936:
+/***/ 2916:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/ecf8aab29858b1233a5214116e8da517.png";
 
 /***/ }),
 
-/***/ 2937:
+/***/ 2917:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/3e3e5f8a22c80c09294ebfc9559ceeac.png";
 
 /***/ }),
 
-/***/ 2938:
+/***/ 2918:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/1b63f5631ecfdf2d32b02f5d6de84ea2.png";
 
 /***/ }),
 
-/***/ 2939:
+/***/ 2919:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/f721f92d4c2e1627652824af85453a07.png";
 
 /***/ }),
 
-/***/ 2940:
+/***/ 2920:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/cc7da3f731df277b7281d4f3f43420d9.png";
 
 /***/ }),
 
-/***/ 2941:
+/***/ 2921:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/be25fca420a7f95f05e8b87530324c9a.png";
 
 /***/ }),
 
-/***/ 2942:
+/***/ 2922:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/246399942353dd551ac62621fd0fc2c7.png";
 
 /***/ }),
 
-/***/ 2943:
+/***/ 2923:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/dc685034141f1d53513e90539b4e2436.png";
 
 /***/ }),
 
-/***/ 2944:
+/***/ 2924:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/559ff3f97ba4e20648b7846943d9fe33.png";
 
 /***/ }),
 
-/***/ 2945:
+/***/ 2925:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/08dff6089c2812aaac7dc2ceed178351.png";
 
 /***/ }),
 
-/***/ 2946:
+/***/ 2926:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/f9d3526e16c680095b5cf8543ac3d96e.png";
 
 /***/ }),
 
-/***/ 2947:
+/***/ 2927:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/8997b5c23c84a4182883356bf17aae34.png";
 
 /***/ }),
 
-/***/ 2948:
+/***/ 2928:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/298e234a90ef1161c01bdeeb833fa142.png";
 
 /***/ }),
 
-/***/ 2949:
+/***/ 2929:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/3d97c0d2dd797f00c614c9c7bdde2850.png";
 
 /***/ }),
 
-/***/ 2950:
+/***/ 2930:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/2294846969d0c338f497994872451eb7.png";
 
 /***/ }),
 
-/***/ 2951:
+/***/ 2931:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/35e5b40c044bd4eb0fc7c261271453e5.png";
 
 /***/ }),
 
-/***/ 2952:
+/***/ 2932:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/b43cc43126fe68b9f0be90b67f65c3ec.png";
 
 /***/ }),
 
-/***/ 2953:
+/***/ 2933:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/8c72b45eaafa254580a22575fb541bc0.png";
 
 /***/ }),
 
-/***/ 2954:
+/***/ 2934:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/6254575e75d05fe637cc61b7197c2123.png";
 
 /***/ }),
 
-/***/ 2955:
+/***/ 2935:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/91935ca9beb1c941b4acfae2115578cc.png";
 
 /***/ }),
 
-/***/ 2956:
+/***/ 2936:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/9684b10804a422e28712aa058933bd7a.png";
 
 /***/ }),
 
-/***/ 2957:
+/***/ 2937:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/6b0a20bccc411ed053bd1df1ee10c154.png";
 
 /***/ }),
 
-/***/ 2958:
+/***/ 2938:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/a9f68e6391e803ca55d49bdbb536a946.png";
 
 /***/ }),
 
-/***/ 2959:
+/***/ 2939:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/2a7c73c010bf5fb6c7cd1021dfb8f39a.gif";
 
 /***/ }),
 
-/***/ 2960:
+/***/ 2940:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/d8c268c304caec7b98b44bc3675d728a.png";
 
 /***/ }),
 
-/***/ 2961:
+/***/ 2941:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/c933a7ce574d3814b59f16e5019fc327.png";
 
 /***/ }),
 
-/***/ 2962:
+/***/ 2942:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/754baa103c2ac348fe5d6ecca59bea5a.png";
 
 /***/ }),
 
-/***/ 2963:
+/***/ 2943:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/a69226a716d526754403451bee941325.png";
 
 /***/ }),
 
-/***/ 2964:
+/***/ 2944:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/cb317a2b69045c85ab5eedc7b65ecbcd.png";
 
 /***/ }),
 
-/***/ 2965:
+/***/ 2945:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/0b4a4faac5634692886876082f5c99c1.png";
 
 /***/ }),
 
-/***/ 2966:
+/***/ 2946:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/431fd7ca74b8eb8ed49519771b2334e6.png";
 
 /***/ }),
 
-/***/ 2967:
+/***/ 2947:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/b46e0ae877de42554ae321fb4e9ce420.png";
 
 /***/ }),
 
-/***/ 2968:
+/***/ 2948:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/bc6bc02e0931cc10c6507a78b12ae02e.png";
 
 /***/ }),
 
-/***/ 2969:
+/***/ 2949:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/7541a408ec69080501071d6f06d6bcce.png";
 
 /***/ }),
 
-/***/ 2970:
+/***/ 2950:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/9de7e20462ee8f25c236dca0172dbc52.png";
 
 /***/ }),
 
-/***/ 2971:
+/***/ 2951:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/758ce94395d932d4943f61b3cc96cd1e.png";
 
 /***/ }),
 
-/***/ 2972:
+/***/ 2952:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/3d3b8fce985f973f14d3ebef6627a7f1.png";
 
 /***/ }),
 
-/***/ 2973:
+/***/ 2953:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/5f6e6debfc04be0836d42b45ea85a6bb.png";
 
 /***/ }),
 
-/***/ 2974:
+/***/ 2954:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/7264c0b67b765f818b43510d45822a3f.png";
 
 /***/ }),
 
-/***/ 2975:
+/***/ 2955:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/aaa55abd17e010a1ec92e3285b9b9f1d.png";
 
 /***/ }),
 
-/***/ 2976:
+/***/ 2956:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/3d01caa7b3aaa53cfd249a1a7a22f7fb.png";
 
 /***/ }),
 
-/***/ 2977:
+/***/ 2957:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/17b20e238552e00772bee085bda0b094.png";
 
 /***/ }),
 
-/***/ 2978:
+/***/ 2958:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/9ff2f106c8b5d0f7e53714767c7ac869.png";
 
 /***/ }),
 
-/***/ 2979:
+/***/ 2959:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/051cc58724149226b23311d799c1c144.png";
 
 /***/ }),
 
-/***/ 2980:
+/***/ 2960:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/58e4ffd30e88bef70209f8a88da3f5ca.png";
 
 /***/ }),
 
-/***/ 2981:
+/***/ 2961:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/3367a2e5f6357f87d291a31758e14e15.png";
 
 /***/ }),
 
-/***/ 2982:
+/***/ 2962:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/797da41ea8725ca406d63babf790766e.png";
 
 /***/ }),
 
-/***/ 2983:
+/***/ 2963:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/7f943e03dbb86eddfde951af1c5bafc1.png";
 
 /***/ }),
 
-/***/ 2984:
+/***/ 2964:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/855a0d7847380c26af17d003a964103f.png";
 
 /***/ }),
 
-/***/ 2985:
+/***/ 2965:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/c6512c99c2c300e1ed16dfc63d514d17.png";
 
 /***/ }),
 
-/***/ 2986:
+/***/ 2966:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/d5f612fcbc4be45012074bc10ccd52d1.png";
 
 /***/ }),
 
-/***/ 2987:
+/***/ 2967:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/4d3c44e440a7d664dd4dbb11c1413f21.png";
 
 /***/ }),
 
-/***/ 2988:
+/***/ 2968:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/61ba3c80aed48940e6a4a699f1f2f6e6.gif";
 
 /***/ }),
 
-/***/ 2989:
+/***/ 2969:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/059128109f4c99fd85668e22fefb7b4f.png";
 
 /***/ }),
 
-/***/ 2990:
+/***/ 2970:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/12398f42368ff5cc10c45a38bac8233a.png";
 
 /***/ }),
 
-/***/ 3308:
+/***/ 3288:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "swImages", function() { return swImages; });
-/* harmony import */ var _steps_intro_1_move_sw_gif__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2888);
+/* harmony import */ var _steps_intro_1_move_sw_gif__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(2868);
 /* harmony import */ var _steps_intro_1_move_sw_gif__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_steps_intro_1_move_sw_gif__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _steps_intro_2_say_sw_gif__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2889);
+/* harmony import */ var _steps_intro_2_say_sw_gif__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2869);
 /* harmony import */ var _steps_intro_2_say_sw_gif__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_steps_intro_2_say_sw_gif__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _steps_intro_3_green_flag_sw_gif__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2890);
+/* harmony import */ var _steps_intro_3_green_flag_sw_gif__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2870);
 /* harmony import */ var _steps_intro_3_green_flag_sw_gif__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_steps_intro_3_green_flag_sw_gif__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _steps_speech_add_extension_sw_gif__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2022);
+/* harmony import */ var _steps_speech_add_extension_sw_gif__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(2002);
 /* harmony import */ var _steps_speech_add_extension_sw_gif__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_steps_speech_add_extension_sw_gif__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _steps_speech_say_something_sw_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2891);
+/* harmony import */ var _steps_speech_say_something_sw_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(2871);
 /* harmony import */ var _steps_speech_say_something_sw_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_steps_speech_say_something_sw_png__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _steps_speech_set_voice_sw_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2892);
+/* harmony import */ var _steps_speech_set_voice_sw_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(2872);
 /* harmony import */ var _steps_speech_set_voice_sw_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_steps_speech_set_voice_sw_png__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _steps_speech_move_around_sw_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(2893);
+/* harmony import */ var _steps_speech_move_around_sw_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(2873);
 /* harmony import */ var _steps_speech_move_around_sw_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_steps_speech_move_around_sw_png__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony import */ var _steps_pick_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(390);
 /* harmony import */ var _steps_pick_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_steps_pick_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_7__);
-/* harmony import */ var _steps_speech_add_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(547);
+/* harmony import */ var _steps_speech_add_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(546);
 /* harmony import */ var _steps_speech_add_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_steps_speech_add_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_8__);
-/* harmony import */ var _steps_speech_song_sw_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(2894);
+/* harmony import */ var _steps_speech_song_sw_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(2874);
 /* harmony import */ var _steps_speech_song_sw_png__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_steps_speech_song_sw_png__WEBPACK_IMPORTED_MODULE_9__);
-/* harmony import */ var _steps_speech_change_color_sw_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(2895);
+/* harmony import */ var _steps_speech_change_color_sw_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(2875);
 /* harmony import */ var _steps_speech_change_color_sw_png__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_steps_speech_change_color_sw_png__WEBPACK_IMPORTED_MODULE_10__);
-/* harmony import */ var _steps_speech_spin_sw_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(2896);
+/* harmony import */ var _steps_speech_spin_sw_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(2876);
 /* harmony import */ var _steps_speech_spin_sw_png__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(_steps_speech_spin_sw_png__WEBPACK_IMPORTED_MODULE_11__);
-/* harmony import */ var _steps_speech_grow_shrink_sw_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(2897);
+/* harmony import */ var _steps_speech_grow_shrink_sw_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(2877);
 /* harmony import */ var _steps_speech_grow_shrink_sw_png__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(_steps_speech_grow_shrink_sw_png__WEBPACK_IMPORTED_MODULE_12__);
-/* harmony import */ var _steps_cn_show_character_LTR_gif__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(546);
+/* harmony import */ var _steps_cn_show_character_LTR_gif__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(545);
 /* harmony import */ var _steps_cn_show_character_LTR_gif__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(_steps_cn_show_character_LTR_gif__WEBPACK_IMPORTED_MODULE_13__);
-/* harmony import */ var _steps_cn_say_sw_png__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(2898);
+/* harmony import */ var _steps_cn_say_sw_png__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(2878);
 /* harmony import */ var _steps_cn_say_sw_png__WEBPACK_IMPORTED_MODULE_14___default = /*#__PURE__*/__webpack_require__.n(_steps_cn_say_sw_png__WEBPACK_IMPORTED_MODULE_14__);
-/* harmony import */ var _steps_cn_glide_sw_png__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(2899);
+/* harmony import */ var _steps_cn_glide_sw_png__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(2879);
 /* harmony import */ var _steps_cn_glide_sw_png__WEBPACK_IMPORTED_MODULE_15___default = /*#__PURE__*/__webpack_require__.n(_steps_cn_glide_sw_png__WEBPACK_IMPORTED_MODULE_15__);
-/* harmony import */ var _steps_cn_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(548);
+/* harmony import */ var _steps_cn_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(547);
 /* harmony import */ var _steps_cn_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_16___default = /*#__PURE__*/__webpack_require__.n(_steps_cn_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_16__);
-/* harmony import */ var _steps_cn_collect_sw_png__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(2900);
+/* harmony import */ var _steps_cn_collect_sw_png__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(2880);
 /* harmony import */ var _steps_cn_collect_sw_png__WEBPACK_IMPORTED_MODULE_17___default = /*#__PURE__*/__webpack_require__.n(_steps_cn_collect_sw_png__WEBPACK_IMPORTED_MODULE_17__);
-/* harmony import */ var _steps_add_variable_sw_gif__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(2009);
+/* harmony import */ var _steps_add_variable_sw_gif__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(1989);
 /* harmony import */ var _steps_add_variable_sw_gif__WEBPACK_IMPORTED_MODULE_18___default = /*#__PURE__*/__webpack_require__.n(_steps_add_variable_sw_gif__WEBPACK_IMPORTED_MODULE_18__);
-/* harmony import */ var _steps_cn_score_sw_png__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(2901);
+/* harmony import */ var _steps_cn_score_sw_png__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(2881);
 /* harmony import */ var _steps_cn_score_sw_png__WEBPACK_IMPORTED_MODULE_19___default = /*#__PURE__*/__webpack_require__.n(_steps_cn_score_sw_png__WEBPACK_IMPORTED_MODULE_19__);
-/* harmony import */ var _steps_cn_backdrop_sw_png__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(2902);
+/* harmony import */ var _steps_cn_backdrop_sw_png__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(2882);
 /* harmony import */ var _steps_cn_backdrop_sw_png__WEBPACK_IMPORTED_MODULE_20___default = /*#__PURE__*/__webpack_require__.n(_steps_cn_backdrop_sw_png__WEBPACK_IMPORTED_MODULE_20__);
-/* harmony import */ var _steps_add_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(549);
+/* harmony import */ var _steps_add_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(548);
 /* harmony import */ var _steps_add_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_21___default = /*#__PURE__*/__webpack_require__.n(_steps_add_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_21__);
-/* harmony import */ var _steps_name_pick_letter_LTR_gif__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(550);
+/* harmony import */ var _steps_name_pick_letter_LTR_gif__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(549);
 /* harmony import */ var _steps_name_pick_letter_LTR_gif__WEBPACK_IMPORTED_MODULE_22___default = /*#__PURE__*/__webpack_require__.n(_steps_name_pick_letter_LTR_gif__WEBPACK_IMPORTED_MODULE_22__);
-/* harmony import */ var _steps_name_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(2903);
+/* harmony import */ var _steps_name_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(2883);
 /* harmony import */ var _steps_name_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_23___default = /*#__PURE__*/__webpack_require__.n(_steps_name_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_23__);
-/* harmony import */ var _steps_name_pick_letter2_LTR_gif__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(551);
+/* harmony import */ var _steps_name_pick_letter2_LTR_gif__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(550);
 /* harmony import */ var _steps_name_pick_letter2_LTR_gif__WEBPACK_IMPORTED_MODULE_24___default = /*#__PURE__*/__webpack_require__.n(_steps_name_pick_letter2_LTR_gif__WEBPACK_IMPORTED_MODULE_24__);
-/* harmony import */ var _steps_name_change_color_sw_png__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(2904);
+/* harmony import */ var _steps_name_change_color_sw_png__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(2884);
 /* harmony import */ var _steps_name_change_color_sw_png__WEBPACK_IMPORTED_MODULE_25___default = /*#__PURE__*/__webpack_require__.n(_steps_name_change_color_sw_png__WEBPACK_IMPORTED_MODULE_25__);
-/* harmony import */ var _steps_name_spin_sw_png__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(2905);
+/* harmony import */ var _steps_name_spin_sw_png__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(2885);
 /* harmony import */ var _steps_name_spin_sw_png__WEBPACK_IMPORTED_MODULE_26___default = /*#__PURE__*/__webpack_require__.n(_steps_name_spin_sw_png__WEBPACK_IMPORTED_MODULE_26__);
-/* harmony import */ var _steps_name_grow_sw_png__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(2906);
+/* harmony import */ var _steps_name_grow_sw_png__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(2886);
 /* harmony import */ var _steps_name_grow_sw_png__WEBPACK_IMPORTED_MODULE_27___default = /*#__PURE__*/__webpack_require__.n(_steps_name_grow_sw_png__WEBPACK_IMPORTED_MODULE_27__);
-/* harmony import */ var _steps_music_pick_instrument_LTR_gif__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(552);
+/* harmony import */ var _steps_music_pick_instrument_LTR_gif__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(551);
 /* harmony import */ var _steps_music_pick_instrument_LTR_gif__WEBPACK_IMPORTED_MODULE_28___default = /*#__PURE__*/__webpack_require__.n(_steps_music_pick_instrument_LTR_gif__WEBPACK_IMPORTED_MODULE_28__);
-/* harmony import */ var _steps_music_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(2907);
+/* harmony import */ var _steps_music_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(2887);
 /* harmony import */ var _steps_music_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_29___default = /*#__PURE__*/__webpack_require__.n(_steps_music_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_29__);
-/* harmony import */ var _steps_music_make_song_sw_png__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(2908);
+/* harmony import */ var _steps_music_make_song_sw_png__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(2888);
 /* harmony import */ var _steps_music_make_song_sw_png__WEBPACK_IMPORTED_MODULE_30___default = /*#__PURE__*/__webpack_require__.n(_steps_music_make_song_sw_png__WEBPACK_IMPORTED_MODULE_30__);
-/* harmony import */ var _steps_music_make_beat_sw_png__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(2909);
+/* harmony import */ var _steps_music_make_beat_sw_png__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(2889);
 /* harmony import */ var _steps_music_make_beat_sw_png__WEBPACK_IMPORTED_MODULE_31___default = /*#__PURE__*/__webpack_require__.n(_steps_music_make_beat_sw_png__WEBPACK_IMPORTED_MODULE_31__);
-/* harmony import */ var _steps_music_make_beatbox_sw_png__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(2910);
+/* harmony import */ var _steps_music_make_beatbox_sw_png__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(2890);
 /* harmony import */ var _steps_music_make_beatbox_sw_png__WEBPACK_IMPORTED_MODULE_32___default = /*#__PURE__*/__webpack_require__.n(_steps_music_make_beatbox_sw_png__WEBPACK_IMPORTED_MODULE_32__);
-/* harmony import */ var _steps_chase_game_add_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(553);
+/* harmony import */ var _steps_chase_game_add_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(552);
 /* harmony import */ var _steps_chase_game_add_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_33___default = /*#__PURE__*/__webpack_require__.n(_steps_chase_game_add_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_33__);
-/* harmony import */ var _steps_chase_game_add_sprite1_LTR_gif__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(554);
+/* harmony import */ var _steps_chase_game_add_sprite1_LTR_gif__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(553);
 /* harmony import */ var _steps_chase_game_add_sprite1_LTR_gif__WEBPACK_IMPORTED_MODULE_34___default = /*#__PURE__*/__webpack_require__.n(_steps_chase_game_add_sprite1_LTR_gif__WEBPACK_IMPORTED_MODULE_34__);
-/* harmony import */ var _steps_chase_game_right_left_sw_png__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(2911);
+/* harmony import */ var _steps_chase_game_right_left_sw_png__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(2891);
 /* harmony import */ var _steps_chase_game_right_left_sw_png__WEBPACK_IMPORTED_MODULE_35___default = /*#__PURE__*/__webpack_require__.n(_steps_chase_game_right_left_sw_png__WEBPACK_IMPORTED_MODULE_35__);
-/* harmony import */ var _steps_chase_game_up_down_sw_png__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(2912);
+/* harmony import */ var _steps_chase_game_up_down_sw_png__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(2892);
 /* harmony import */ var _steps_chase_game_up_down_sw_png__WEBPACK_IMPORTED_MODULE_36___default = /*#__PURE__*/__webpack_require__.n(_steps_chase_game_up_down_sw_png__WEBPACK_IMPORTED_MODULE_36__);
-/* harmony import */ var _steps_chase_game_add_sprite2_LTR_gif__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(555);
+/* harmony import */ var _steps_chase_game_add_sprite2_LTR_gif__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(554);
 /* harmony import */ var _steps_chase_game_add_sprite2_LTR_gif__WEBPACK_IMPORTED_MODULE_37___default = /*#__PURE__*/__webpack_require__.n(_steps_chase_game_add_sprite2_LTR_gif__WEBPACK_IMPORTED_MODULE_37__);
-/* harmony import */ var _steps_chase_game_move_randomly_sw_png__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(2913);
+/* harmony import */ var _steps_chase_game_move_randomly_sw_png__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(2893);
 /* harmony import */ var _steps_chase_game_move_randomly_sw_png__WEBPACK_IMPORTED_MODULE_38___default = /*#__PURE__*/__webpack_require__.n(_steps_chase_game_move_randomly_sw_png__WEBPACK_IMPORTED_MODULE_38__);
-/* harmony import */ var _steps_chase_game_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(2914);
+/* harmony import */ var _steps_chase_game_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(2894);
 /* harmony import */ var _steps_chase_game_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_39___default = /*#__PURE__*/__webpack_require__.n(_steps_chase_game_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_39__);
-/* harmony import */ var _steps_chase_game_change_score_sw_png__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(2915);
+/* harmony import */ var _steps_chase_game_change_score_sw_png__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(2895);
 /* harmony import */ var _steps_chase_game_change_score_sw_png__WEBPACK_IMPORTED_MODULE_40___default = /*#__PURE__*/__webpack_require__.n(_steps_chase_game_change_score_sw_png__WEBPACK_IMPORTED_MODULE_40__);
-/* harmony import */ var _steps_pop_game_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(556);
+/* harmony import */ var _steps_pop_game_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(555);
 /* harmony import */ var _steps_pop_game_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_41___default = /*#__PURE__*/__webpack_require__.n(_steps_pop_game_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_41__);
-/* harmony import */ var _steps_pop_game_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(2916);
+/* harmony import */ var _steps_pop_game_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(2896);
 /* harmony import */ var _steps_pop_game_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_42___default = /*#__PURE__*/__webpack_require__.n(_steps_pop_game_play_sound_sw_png__WEBPACK_IMPORTED_MODULE_42__);
-/* harmony import */ var _steps_pop_game_change_score_sw_png__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(2917);
+/* harmony import */ var _steps_pop_game_change_score_sw_png__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(2897);
 /* harmony import */ var _steps_pop_game_change_score_sw_png__WEBPACK_IMPORTED_MODULE_43___default = /*#__PURE__*/__webpack_require__.n(_steps_pop_game_change_score_sw_png__WEBPACK_IMPORTED_MODULE_43__);
-/* harmony import */ var _steps_pop_game_random_position_sw_png__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(2918);
+/* harmony import */ var _steps_pop_game_random_position_sw_png__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(2898);
 /* harmony import */ var _steps_pop_game_random_position_sw_png__WEBPACK_IMPORTED_MODULE_44___default = /*#__PURE__*/__webpack_require__.n(_steps_pop_game_random_position_sw_png__WEBPACK_IMPORTED_MODULE_44__);
-/* harmony import */ var _steps_pop_game_change_color_sw_png__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(2919);
+/* harmony import */ var _steps_pop_game_change_color_sw_png__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(2899);
 /* harmony import */ var _steps_pop_game_change_color_sw_png__WEBPACK_IMPORTED_MODULE_45___default = /*#__PURE__*/__webpack_require__.n(_steps_pop_game_change_color_sw_png__WEBPACK_IMPORTED_MODULE_45__);
-/* harmony import */ var _steps_pop_game_reset_score_sw_png__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(2920);
+/* harmony import */ var _steps_pop_game_reset_score_sw_png__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(2900);
 /* harmony import */ var _steps_pop_game_reset_score_sw_png__WEBPACK_IMPORTED_MODULE_46___default = /*#__PURE__*/__webpack_require__.n(_steps_pop_game_reset_score_sw_png__WEBPACK_IMPORTED_MODULE_46__);
-/* harmony import */ var _steps_animate_char_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(557);
+/* harmony import */ var _steps_animate_char_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(556);
 /* harmony import */ var _steps_animate_char_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_47___default = /*#__PURE__*/__webpack_require__.n(_steps_animate_char_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_47__);
-/* harmony import */ var _steps_animate_char_say_something_sw_png__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(2921);
+/* harmony import */ var _steps_animate_char_say_something_sw_png__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(2901);
 /* harmony import */ var _steps_animate_char_say_something_sw_png__WEBPACK_IMPORTED_MODULE_48___default = /*#__PURE__*/__webpack_require__.n(_steps_animate_char_say_something_sw_png__WEBPACK_IMPORTED_MODULE_48__);
-/* harmony import */ var _steps_animate_char_add_sound_sw_png__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(2922);
+/* harmony import */ var _steps_animate_char_add_sound_sw_png__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(2902);
 /* harmony import */ var _steps_animate_char_add_sound_sw_png__WEBPACK_IMPORTED_MODULE_49___default = /*#__PURE__*/__webpack_require__.n(_steps_animate_char_add_sound_sw_png__WEBPACK_IMPORTED_MODULE_49__);
-/* harmony import */ var _steps_animate_char_talk_sw_png__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(2923);
+/* harmony import */ var _steps_animate_char_talk_sw_png__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(2903);
 /* harmony import */ var _steps_animate_char_talk_sw_png__WEBPACK_IMPORTED_MODULE_50___default = /*#__PURE__*/__webpack_require__.n(_steps_animate_char_talk_sw_png__WEBPACK_IMPORTED_MODULE_50__);
-/* harmony import */ var _steps_animate_char_move_sw_png__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(2924);
+/* harmony import */ var _steps_animate_char_move_sw_png__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(2904);
 /* harmony import */ var _steps_animate_char_move_sw_png__WEBPACK_IMPORTED_MODULE_51___default = /*#__PURE__*/__webpack_require__.n(_steps_animate_char_move_sw_png__WEBPACK_IMPORTED_MODULE_51__);
-/* harmony import */ var _steps_animate_char_jump_sw_png__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(2925);
+/* harmony import */ var _steps_animate_char_jump_sw_png__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(2905);
 /* harmony import */ var _steps_animate_char_jump_sw_png__WEBPACK_IMPORTED_MODULE_52___default = /*#__PURE__*/__webpack_require__.n(_steps_animate_char_jump_sw_png__WEBPACK_IMPORTED_MODULE_52__);
-/* harmony import */ var _steps_animate_char_change_color_sw_png__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(2926);
+/* harmony import */ var _steps_animate_char_change_color_sw_png__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(2906);
 /* harmony import */ var _steps_animate_char_change_color_sw_png__WEBPACK_IMPORTED_MODULE_53___default = /*#__PURE__*/__webpack_require__.n(_steps_animate_char_change_color_sw_png__WEBPACK_IMPORTED_MODULE_53__);
-/* harmony import */ var _steps_story_pick_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(558);
+/* harmony import */ var _steps_story_pick_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(557);
 /* harmony import */ var _steps_story_pick_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_54___default = /*#__PURE__*/__webpack_require__.n(_steps_story_pick_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_54__);
-/* harmony import */ var _steps_story_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(559);
+/* harmony import */ var _steps_story_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(558);
 /* harmony import */ var _steps_story_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_55___default = /*#__PURE__*/__webpack_require__.n(_steps_story_pick_sprite_LTR_gif__WEBPACK_IMPORTED_MODULE_55__);
-/* harmony import */ var _steps_story_say_something_sw_png__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(2927);
+/* harmony import */ var _steps_story_say_something_sw_png__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(2907);
 /* harmony import */ var _steps_story_say_something_sw_png__WEBPACK_IMPORTED_MODULE_56___default = /*#__PURE__*/__webpack_require__.n(_steps_story_say_something_sw_png__WEBPACK_IMPORTED_MODULE_56__);
-/* harmony import */ var _steps_story_pick_sprite2_LTR_gif__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(560);
+/* harmony import */ var _steps_story_pick_sprite2_LTR_gif__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(559);
 /* harmony import */ var _steps_story_pick_sprite2_LTR_gif__WEBPACK_IMPORTED_MODULE_57___default = /*#__PURE__*/__webpack_require__.n(_steps_story_pick_sprite2_LTR_gif__WEBPACK_IMPORTED_MODULE_57__);
-/* harmony import */ var _steps_story_flip_sw_gif__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(2928);
+/* harmony import */ var _steps_story_flip_sw_gif__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(2908);
 /* harmony import */ var _steps_story_flip_sw_gif__WEBPACK_IMPORTED_MODULE_58___default = /*#__PURE__*/__webpack_require__.n(_steps_story_flip_sw_gif__WEBPACK_IMPORTED_MODULE_58__);
-/* harmony import */ var _steps_story_conversation_sw_png__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(2929);
+/* harmony import */ var _steps_story_conversation_sw_png__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(2909);
 /* harmony import */ var _steps_story_conversation_sw_png__WEBPACK_IMPORTED_MODULE_59___default = /*#__PURE__*/__webpack_require__.n(_steps_story_conversation_sw_png__WEBPACK_IMPORTED_MODULE_59__);
-/* harmony import */ var _steps_story_pick_backdrop2_LTR_gif__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(561);
+/* harmony import */ var _steps_story_pick_backdrop2_LTR_gif__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(560);
 /* harmony import */ var _steps_story_pick_backdrop2_LTR_gif__WEBPACK_IMPORTED_MODULE_60___default = /*#__PURE__*/__webpack_require__.n(_steps_story_pick_backdrop2_LTR_gif__WEBPACK_IMPORTED_MODULE_60__);
-/* harmony import */ var _steps_story_switch_backdrop_sw_png__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(2930);
+/* harmony import */ var _steps_story_switch_backdrop_sw_png__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(2910);
 /* harmony import */ var _steps_story_switch_backdrop_sw_png__WEBPACK_IMPORTED_MODULE_61___default = /*#__PURE__*/__webpack_require__.n(_steps_story_switch_backdrop_sw_png__WEBPACK_IMPORTED_MODULE_61__);
-/* harmony import */ var _steps_story_hide_character_sw_png__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(2931);
+/* harmony import */ var _steps_story_hide_character_sw_png__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(2911);
 /* harmony import */ var _steps_story_hide_character_sw_png__WEBPACK_IMPORTED_MODULE_62___default = /*#__PURE__*/__webpack_require__.n(_steps_story_hide_character_sw_png__WEBPACK_IMPORTED_MODULE_62__);
-/* harmony import */ var _steps_story_show_character_sw_png__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(2932);
+/* harmony import */ var _steps_story_show_character_sw_png__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(2912);
 /* harmony import */ var _steps_story_show_character_sw_png__WEBPACK_IMPORTED_MODULE_63___default = /*#__PURE__*/__webpack_require__.n(_steps_story_show_character_sw_png__WEBPACK_IMPORTED_MODULE_63__);
-/* harmony import */ var _steps_video_add_extension_sw_gif__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(2933);
+/* harmony import */ var _steps_video_add_extension_sw_gif__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(2913);
 /* harmony import */ var _steps_video_add_extension_sw_gif__WEBPACK_IMPORTED_MODULE_64___default = /*#__PURE__*/__webpack_require__.n(_steps_video_add_extension_sw_gif__WEBPACK_IMPORTED_MODULE_64__);
-/* harmony import */ var _steps_video_pet_sw_png__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(2934);
+/* harmony import */ var _steps_video_pet_sw_png__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(2914);
 /* harmony import */ var _steps_video_pet_sw_png__WEBPACK_IMPORTED_MODULE_65___default = /*#__PURE__*/__webpack_require__.n(_steps_video_pet_sw_png__WEBPACK_IMPORTED_MODULE_65__);
-/* harmony import */ var _steps_video_animate_sw_png__WEBPACK_IMPORTED_MODULE_66__ = __webpack_require__(2935);
+/* harmony import */ var _steps_video_animate_sw_png__WEBPACK_IMPORTED_MODULE_66__ = __webpack_require__(2915);
 /* harmony import */ var _steps_video_animate_sw_png__WEBPACK_IMPORTED_MODULE_66___default = /*#__PURE__*/__webpack_require__.n(_steps_video_animate_sw_png__WEBPACK_IMPORTED_MODULE_66__);
-/* harmony import */ var _steps_video_pop_sw_png__WEBPACK_IMPORTED_MODULE_67__ = __webpack_require__(2936);
+/* harmony import */ var _steps_video_pop_sw_png__WEBPACK_IMPORTED_MODULE_67__ = __webpack_require__(2916);
 /* harmony import */ var _steps_video_pop_sw_png__WEBPACK_IMPORTED_MODULE_67___default = /*#__PURE__*/__webpack_require__.n(_steps_video_pop_sw_png__WEBPACK_IMPORTED_MODULE_67__);
-/* harmony import */ var _steps_fly_choose_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_68__ = __webpack_require__(562);
+/* harmony import */ var _steps_fly_choose_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_68__ = __webpack_require__(561);
 /* harmony import */ var _steps_fly_choose_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_68___default = /*#__PURE__*/__webpack_require__.n(_steps_fly_choose_backdrop_LTR_gif__WEBPACK_IMPORTED_MODULE_68__);
-/* harmony import */ var _steps_fly_choose_character_LTR_png__WEBPACK_IMPORTED_MODULE_69__ = __webpack_require__(563);
+/* harmony import */ var _steps_fly_choose_character_LTR_png__WEBPACK_IMPORTED_MODULE_69__ = __webpack_require__(562);
 /* harmony import */ var _steps_fly_choose_character_LTR_png__WEBPACK_IMPORTED_MODULE_69___default = /*#__PURE__*/__webpack_require__.n(_steps_fly_choose_character_LTR_png__WEBPACK_IMPORTED_MODULE_69__);
-/* harmony import */ var _steps_fly_say_something_sw_png__WEBPACK_IMPORTED_MODULE_70__ = __webpack_require__(2937);
+/* harmony import */ var _steps_fly_say_something_sw_png__WEBPACK_IMPORTED_MODULE_70__ = __webpack_require__(2917);
 /* harmony import */ var _steps_fly_say_something_sw_png__WEBPACK_IMPORTED_MODULE_70___default = /*#__PURE__*/__webpack_require__.n(_steps_fly_say_something_sw_png__WEBPACK_IMPORTED_MODULE_70__);
-/* harmony import */ var _steps_fly_make_interactive_sw_png__WEBPACK_IMPORTED_MODULE_71__ = __webpack_require__(2938);
+/* harmony import */ var _steps_fly_make_interactive_sw_png__WEBPACK_IMPORTED_MODULE_71__ = __webpack_require__(2918);
 /* harmony import */ var _steps_fly_make_interactive_sw_png__WEBPACK_IMPORTED_MODULE_71___default = /*#__PURE__*/__webpack_require__.n(_steps_fly_make_interactive_sw_png__WEBPACK_IMPORTED_MODULE_71__);
-/* harmony import */ var _steps_fly_object_to_collect_LTR_png__WEBPACK_IMPORTED_MODULE_72__ = __webpack_require__(564);
+/* harmony import */ var _steps_fly_object_to_collect_LTR_png__WEBPACK_IMPORTED_MODULE_72__ = __webpack_require__(563);
 /* harmony import */ var _steps_fly_object_to_collect_LTR_png__WEBPACK_IMPORTED_MODULE_72___default = /*#__PURE__*/__webpack_require__.n(_steps_fly_object_to_collect_LTR_png__WEBPACK_IMPORTED_MODULE_72__);
-/* harmony import */ var _steps_fly_flying_heart_sw_png__WEBPACK_IMPORTED_MODULE_73__ = __webpack_require__(2939);
+/* harmony import */ var _steps_fly_flying_heart_sw_png__WEBPACK_IMPORTED_MODULE_73__ = __webpack_require__(2919);
 /* harmony import */ var _steps_fly_flying_heart_sw_png__WEBPACK_IMPORTED_MODULE_73___default = /*#__PURE__*/__webpack_require__.n(_steps_fly_flying_heart_sw_png__WEBPACK_IMPORTED_MODULE_73__);
-/* harmony import */ var _steps_fly_select_flyer_LTR_png__WEBPACK_IMPORTED_MODULE_74__ = __webpack_require__(565);
+/* harmony import */ var _steps_fly_select_flyer_LTR_png__WEBPACK_IMPORTED_MODULE_74__ = __webpack_require__(564);
 /* harmony import */ var _steps_fly_select_flyer_LTR_png__WEBPACK_IMPORTED_MODULE_74___default = /*#__PURE__*/__webpack_require__.n(_steps_fly_select_flyer_LTR_png__WEBPACK_IMPORTED_MODULE_74__);
-/* harmony import */ var _steps_fly_keep_score_sw_png__WEBPACK_IMPORTED_MODULE_75__ = __webpack_require__(2940);
+/* harmony import */ var _steps_fly_keep_score_sw_png__WEBPACK_IMPORTED_MODULE_75__ = __webpack_require__(2920);
 /* harmony import */ var _steps_fly_keep_score_sw_png__WEBPACK_IMPORTED_MODULE_75___default = /*#__PURE__*/__webpack_require__.n(_steps_fly_keep_score_sw_png__WEBPACK_IMPORTED_MODULE_75__);
-/* harmony import */ var _steps_fly_choose_scenery_LTR_gif__WEBPACK_IMPORTED_MODULE_76__ = __webpack_require__(566);
+/* harmony import */ var _steps_fly_choose_scenery_LTR_gif__WEBPACK_IMPORTED_MODULE_76__ = __webpack_require__(565);
 /* harmony import */ var _steps_fly_choose_scenery_LTR_gif__WEBPACK_IMPORTED_MODULE_76___default = /*#__PURE__*/__webpack_require__.n(_steps_fly_choose_scenery_LTR_gif__WEBPACK_IMPORTED_MODULE_76__);
-/* harmony import */ var _steps_fly_move_scenery_sw_png__WEBPACK_IMPORTED_MODULE_77__ = __webpack_require__(2941);
+/* harmony import */ var _steps_fly_move_scenery_sw_png__WEBPACK_IMPORTED_MODULE_77__ = __webpack_require__(2921);
 /* harmony import */ var _steps_fly_move_scenery_sw_png__WEBPACK_IMPORTED_MODULE_77___default = /*#__PURE__*/__webpack_require__.n(_steps_fly_move_scenery_sw_png__WEBPACK_IMPORTED_MODULE_77__);
-/* harmony import */ var _steps_fly_switch_costume_sw_png__WEBPACK_IMPORTED_MODULE_78__ = __webpack_require__(2942);
+/* harmony import */ var _steps_fly_switch_costume_sw_png__WEBPACK_IMPORTED_MODULE_78__ = __webpack_require__(2922);
 /* harmony import */ var _steps_fly_switch_costume_sw_png__WEBPACK_IMPORTED_MODULE_78___default = /*#__PURE__*/__webpack_require__.n(_steps_fly_switch_costume_sw_png__WEBPACK_IMPORTED_MODULE_78__);
-/* harmony import */ var _steps_pong_add_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_79__ = __webpack_require__(567);
+/* harmony import */ var _steps_pong_add_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_79__ = __webpack_require__(566);
 /* harmony import */ var _steps_pong_add_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_79___default = /*#__PURE__*/__webpack_require__.n(_steps_pong_add_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_79__);
-/* harmony import */ var _steps_pong_add_ball_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_80__ = __webpack_require__(568);
+/* harmony import */ var _steps_pong_add_ball_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_80__ = __webpack_require__(567);
 /* harmony import */ var _steps_pong_add_ball_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_80___default = /*#__PURE__*/__webpack_require__.n(_steps_pong_add_ball_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_80__);
-/* harmony import */ var _steps_pong_bounce_around_sw_png__WEBPACK_IMPORTED_MODULE_81__ = __webpack_require__(2943);
+/* harmony import */ var _steps_pong_bounce_around_sw_png__WEBPACK_IMPORTED_MODULE_81__ = __webpack_require__(2923);
 /* harmony import */ var _steps_pong_bounce_around_sw_png__WEBPACK_IMPORTED_MODULE_81___default = /*#__PURE__*/__webpack_require__.n(_steps_pong_bounce_around_sw_png__WEBPACK_IMPORTED_MODULE_81__);
-/* harmony import */ var _steps_pong_add_a_paddle_LTR_gif__WEBPACK_IMPORTED_MODULE_82__ = __webpack_require__(569);
+/* harmony import */ var _steps_pong_add_a_paddle_LTR_gif__WEBPACK_IMPORTED_MODULE_82__ = __webpack_require__(568);
 /* harmony import */ var _steps_pong_add_a_paddle_LTR_gif__WEBPACK_IMPORTED_MODULE_82___default = /*#__PURE__*/__webpack_require__.n(_steps_pong_add_a_paddle_LTR_gif__WEBPACK_IMPORTED_MODULE_82__);
-/* harmony import */ var _steps_pong_move_the_paddle_sw_png__WEBPACK_IMPORTED_MODULE_83__ = __webpack_require__(2944);
+/* harmony import */ var _steps_pong_move_the_paddle_sw_png__WEBPACK_IMPORTED_MODULE_83__ = __webpack_require__(2924);
 /* harmony import */ var _steps_pong_move_the_paddle_sw_png__WEBPACK_IMPORTED_MODULE_83___default = /*#__PURE__*/__webpack_require__.n(_steps_pong_move_the_paddle_sw_png__WEBPACK_IMPORTED_MODULE_83__);
-/* harmony import */ var _steps_pong_select_ball_LTR_png__WEBPACK_IMPORTED_MODULE_84__ = __webpack_require__(570);
+/* harmony import */ var _steps_pong_select_ball_LTR_png__WEBPACK_IMPORTED_MODULE_84__ = __webpack_require__(569);
 /* harmony import */ var _steps_pong_select_ball_LTR_png__WEBPACK_IMPORTED_MODULE_84___default = /*#__PURE__*/__webpack_require__.n(_steps_pong_select_ball_LTR_png__WEBPACK_IMPORTED_MODULE_84__);
-/* harmony import */ var _steps_pong_add_code_to_ball_sw_png__WEBPACK_IMPORTED_MODULE_85__ = __webpack_require__(2945);
+/* harmony import */ var _steps_pong_add_code_to_ball_sw_png__WEBPACK_IMPORTED_MODULE_85__ = __webpack_require__(2925);
 /* harmony import */ var _steps_pong_add_code_to_ball_sw_png__WEBPACK_IMPORTED_MODULE_85___default = /*#__PURE__*/__webpack_require__.n(_steps_pong_add_code_to_ball_sw_png__WEBPACK_IMPORTED_MODULE_85__);
-/* harmony import */ var _steps_pong_choose_score_sw_png__WEBPACK_IMPORTED_MODULE_86__ = __webpack_require__(2946);
+/* harmony import */ var _steps_pong_choose_score_sw_png__WEBPACK_IMPORTED_MODULE_86__ = __webpack_require__(2926);
 /* harmony import */ var _steps_pong_choose_score_sw_png__WEBPACK_IMPORTED_MODULE_86___default = /*#__PURE__*/__webpack_require__.n(_steps_pong_choose_score_sw_png__WEBPACK_IMPORTED_MODULE_86__);
-/* harmony import */ var _steps_pong_insert_change_score_sw_png__WEBPACK_IMPORTED_MODULE_87__ = __webpack_require__(2947);
+/* harmony import */ var _steps_pong_insert_change_score_sw_png__WEBPACK_IMPORTED_MODULE_87__ = __webpack_require__(2927);
 /* harmony import */ var _steps_pong_insert_change_score_sw_png__WEBPACK_IMPORTED_MODULE_87___default = /*#__PURE__*/__webpack_require__.n(_steps_pong_insert_change_score_sw_png__WEBPACK_IMPORTED_MODULE_87__);
-/* harmony import */ var _steps_pong_reset_score_sw_png__WEBPACK_IMPORTED_MODULE_88__ = __webpack_require__(2948);
+/* harmony import */ var _steps_pong_reset_score_sw_png__WEBPACK_IMPORTED_MODULE_88__ = __webpack_require__(2928);
 /* harmony import */ var _steps_pong_reset_score_sw_png__WEBPACK_IMPORTED_MODULE_88___default = /*#__PURE__*/__webpack_require__.n(_steps_pong_reset_score_sw_png__WEBPACK_IMPORTED_MODULE_88__);
-/* harmony import */ var _steps_pong_add_line_LTR_gif__WEBPACK_IMPORTED_MODULE_89__ = __webpack_require__(571);
+/* harmony import */ var _steps_pong_add_line_LTR_gif__WEBPACK_IMPORTED_MODULE_89__ = __webpack_require__(570);
 /* harmony import */ var _steps_pong_add_line_LTR_gif__WEBPACK_IMPORTED_MODULE_89___default = /*#__PURE__*/__webpack_require__.n(_steps_pong_add_line_LTR_gif__WEBPACK_IMPORTED_MODULE_89__);
-/* harmony import */ var _steps_pong_game_over_sw_png__WEBPACK_IMPORTED_MODULE_90__ = __webpack_require__(2949);
+/* harmony import */ var _steps_pong_game_over_sw_png__WEBPACK_IMPORTED_MODULE_90__ = __webpack_require__(2929);
 /* harmony import */ var _steps_pong_game_over_sw_png__WEBPACK_IMPORTED_MODULE_90___default = /*#__PURE__*/__webpack_require__.n(_steps_pong_game_over_sw_png__WEBPACK_IMPORTED_MODULE_90__);
-/* harmony import */ var _steps_imagine_type_what_you_want_sw_png__WEBPACK_IMPORTED_MODULE_91__ = __webpack_require__(2950);
+/* harmony import */ var _steps_imagine_type_what_you_want_sw_png__WEBPACK_IMPORTED_MODULE_91__ = __webpack_require__(2930);
 /* harmony import */ var _steps_imagine_type_what_you_want_sw_png__WEBPACK_IMPORTED_MODULE_91___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_type_what_you_want_sw_png__WEBPACK_IMPORTED_MODULE_91__);
-/* harmony import */ var _steps_imagine_click_green_flag_sw_png__WEBPACK_IMPORTED_MODULE_92__ = __webpack_require__(2951);
+/* harmony import */ var _steps_imagine_click_green_flag_sw_png__WEBPACK_IMPORTED_MODULE_92__ = __webpack_require__(2931);
 /* harmony import */ var _steps_imagine_click_green_flag_sw_png__WEBPACK_IMPORTED_MODULE_92___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_click_green_flag_sw_png__WEBPACK_IMPORTED_MODULE_92__);
-/* harmony import */ var _steps_imagine_choose_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_93__ = __webpack_require__(572);
+/* harmony import */ var _steps_imagine_choose_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_93__ = __webpack_require__(571);
 /* harmony import */ var _steps_imagine_choose_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_93___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_choose_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_93__);
-/* harmony import */ var _steps_imagine_choose_any_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_94__ = __webpack_require__(573);
+/* harmony import */ var _steps_imagine_choose_any_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_94__ = __webpack_require__(572);
 /* harmony import */ var _steps_imagine_choose_any_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_94___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_choose_any_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_94__);
-/* harmony import */ var _steps_imagine_fly_around_sw_png__WEBPACK_IMPORTED_MODULE_95__ = __webpack_require__(2952);
+/* harmony import */ var _steps_imagine_fly_around_sw_png__WEBPACK_IMPORTED_MODULE_95__ = __webpack_require__(2932);
 /* harmony import */ var _steps_imagine_fly_around_sw_png__WEBPACK_IMPORTED_MODULE_95___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_fly_around_sw_png__WEBPACK_IMPORTED_MODULE_95__);
-/* harmony import */ var _steps_imagine_choose_another_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_96__ = __webpack_require__(574);
+/* harmony import */ var _steps_imagine_choose_another_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_96__ = __webpack_require__(573);
 /* harmony import */ var _steps_imagine_choose_another_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_96___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_choose_another_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_96__);
-/* harmony import */ var _steps_imagine_left_right_sw_png__WEBPACK_IMPORTED_MODULE_97__ = __webpack_require__(2953);
+/* harmony import */ var _steps_imagine_left_right_sw_png__WEBPACK_IMPORTED_MODULE_97__ = __webpack_require__(2933);
 /* harmony import */ var _steps_imagine_left_right_sw_png__WEBPACK_IMPORTED_MODULE_97___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_left_right_sw_png__WEBPACK_IMPORTED_MODULE_97__);
-/* harmony import */ var _steps_imagine_up_down_sw_png__WEBPACK_IMPORTED_MODULE_98__ = __webpack_require__(2954);
+/* harmony import */ var _steps_imagine_up_down_sw_png__WEBPACK_IMPORTED_MODULE_98__ = __webpack_require__(2934);
 /* harmony import */ var _steps_imagine_up_down_sw_png__WEBPACK_IMPORTED_MODULE_98___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_up_down_sw_png__WEBPACK_IMPORTED_MODULE_98__);
-/* harmony import */ var _steps_imagine_change_costumes_sw_png__WEBPACK_IMPORTED_MODULE_99__ = __webpack_require__(2955);
+/* harmony import */ var _steps_imagine_change_costumes_sw_png__WEBPACK_IMPORTED_MODULE_99__ = __webpack_require__(2935);
 /* harmony import */ var _steps_imagine_change_costumes_sw_png__WEBPACK_IMPORTED_MODULE_99___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_change_costumes_sw_png__WEBPACK_IMPORTED_MODULE_99__);
-/* harmony import */ var _steps_imagine_glide_to_point_sw_png__WEBPACK_IMPORTED_MODULE_100__ = __webpack_require__(2956);
+/* harmony import */ var _steps_imagine_glide_to_point_sw_png__WEBPACK_IMPORTED_MODULE_100__ = __webpack_require__(2936);
 /* harmony import */ var _steps_imagine_glide_to_point_sw_png__WEBPACK_IMPORTED_MODULE_100___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_glide_to_point_sw_png__WEBPACK_IMPORTED_MODULE_100__);
-/* harmony import */ var _steps_imagine_grow_shrink_sw_png__WEBPACK_IMPORTED_MODULE_101__ = __webpack_require__(2957);
+/* harmony import */ var _steps_imagine_grow_shrink_sw_png__WEBPACK_IMPORTED_MODULE_101__ = __webpack_require__(2937);
 /* harmony import */ var _steps_imagine_grow_shrink_sw_png__WEBPACK_IMPORTED_MODULE_101___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_grow_shrink_sw_png__WEBPACK_IMPORTED_MODULE_101__);
-/* harmony import */ var _steps_imagine_choose_another_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_102__ = __webpack_require__(575);
+/* harmony import */ var _steps_imagine_choose_another_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_102__ = __webpack_require__(574);
 /* harmony import */ var _steps_imagine_choose_another_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_102___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_choose_another_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_102__);
-/* harmony import */ var _steps_imagine_switch_backdrops_sw_png__WEBPACK_IMPORTED_MODULE_103__ = __webpack_require__(2958);
+/* harmony import */ var _steps_imagine_switch_backdrops_sw_png__WEBPACK_IMPORTED_MODULE_103__ = __webpack_require__(2938);
 /* harmony import */ var _steps_imagine_switch_backdrops_sw_png__WEBPACK_IMPORTED_MODULE_103___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_switch_backdrops_sw_png__WEBPACK_IMPORTED_MODULE_103__);
-/* harmony import */ var _steps_imagine_record_a_sound_sw_gif__WEBPACK_IMPORTED_MODULE_104__ = __webpack_require__(2959);
+/* harmony import */ var _steps_imagine_record_a_sound_sw_gif__WEBPACK_IMPORTED_MODULE_104__ = __webpack_require__(2939);
 /* harmony import */ var _steps_imagine_record_a_sound_sw_gif__WEBPACK_IMPORTED_MODULE_104___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_record_a_sound_sw_gif__WEBPACK_IMPORTED_MODULE_104__);
-/* harmony import */ var _steps_imagine_choose_sound_sw_png__WEBPACK_IMPORTED_MODULE_105__ = __webpack_require__(2960);
+/* harmony import */ var _steps_imagine_choose_sound_sw_png__WEBPACK_IMPORTED_MODULE_105__ = __webpack_require__(2940);
 /* harmony import */ var _steps_imagine_choose_sound_sw_png__WEBPACK_IMPORTED_MODULE_105___default = /*#__PURE__*/__webpack_require__.n(_steps_imagine_choose_sound_sw_png__WEBPACK_IMPORTED_MODULE_105__);
-/* harmony import */ var _steps_add_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_106__ = __webpack_require__(576);
+/* harmony import */ var _steps_add_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_106__ = __webpack_require__(575);
 /* harmony import */ var _steps_add_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_106___default = /*#__PURE__*/__webpack_require__.n(_steps_add_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_106__);
-/* harmony import */ var _steps_add_effects_sw_png__WEBPACK_IMPORTED_MODULE_107__ = __webpack_require__(2961);
+/* harmony import */ var _steps_add_effects_sw_png__WEBPACK_IMPORTED_MODULE_107__ = __webpack_require__(2941);
 /* harmony import */ var _steps_add_effects_sw_png__WEBPACK_IMPORTED_MODULE_107___default = /*#__PURE__*/__webpack_require__.n(_steps_add_effects_sw_png__WEBPACK_IMPORTED_MODULE_107__);
-/* harmony import */ var _steps_hide_show_sw_png__WEBPACK_IMPORTED_MODULE_108__ = __webpack_require__(2962);
+/* harmony import */ var _steps_hide_show_sw_png__WEBPACK_IMPORTED_MODULE_108__ = __webpack_require__(2942);
 /* harmony import */ var _steps_hide_show_sw_png__WEBPACK_IMPORTED_MODULE_108___default = /*#__PURE__*/__webpack_require__.n(_steps_hide_show_sw_png__WEBPACK_IMPORTED_MODULE_108__);
-/* harmony import */ var _steps_switch_costumes_sw_png__WEBPACK_IMPORTED_MODULE_109__ = __webpack_require__(2963);
+/* harmony import */ var _steps_switch_costumes_sw_png__WEBPACK_IMPORTED_MODULE_109__ = __webpack_require__(2943);
 /* harmony import */ var _steps_switch_costumes_sw_png__WEBPACK_IMPORTED_MODULE_109___default = /*#__PURE__*/__webpack_require__.n(_steps_switch_costumes_sw_png__WEBPACK_IMPORTED_MODULE_109__);
-/* harmony import */ var _steps_change_size_sw_png__WEBPACK_IMPORTED_MODULE_110__ = __webpack_require__(2964);
+/* harmony import */ var _steps_change_size_sw_png__WEBPACK_IMPORTED_MODULE_110__ = __webpack_require__(2944);
 /* harmony import */ var _steps_change_size_sw_png__WEBPACK_IMPORTED_MODULE_110___default = /*#__PURE__*/__webpack_require__.n(_steps_change_size_sw_png__WEBPACK_IMPORTED_MODULE_110__);
-/* harmony import */ var _steps_spin_turn_sw_png__WEBPACK_IMPORTED_MODULE_111__ = __webpack_require__(2965);
+/* harmony import */ var _steps_spin_turn_sw_png__WEBPACK_IMPORTED_MODULE_111__ = __webpack_require__(2945);
 /* harmony import */ var _steps_spin_turn_sw_png__WEBPACK_IMPORTED_MODULE_111___default = /*#__PURE__*/__webpack_require__.n(_steps_spin_turn_sw_png__WEBPACK_IMPORTED_MODULE_111__);
-/* harmony import */ var _steps_spin_point_in_direction_sw_png__WEBPACK_IMPORTED_MODULE_112__ = __webpack_require__(2966);
+/* harmony import */ var _steps_spin_point_in_direction_sw_png__WEBPACK_IMPORTED_MODULE_112__ = __webpack_require__(2946);
 /* harmony import */ var _steps_spin_point_in_direction_sw_png__WEBPACK_IMPORTED_MODULE_112___default = /*#__PURE__*/__webpack_require__.n(_steps_spin_point_in_direction_sw_png__WEBPACK_IMPORTED_MODULE_112__);
-/* harmony import */ var _steps_record_a_sound_sounds_tab_sw_png__WEBPACK_IMPORTED_MODULE_113__ = __webpack_require__(2967);
+/* harmony import */ var _steps_record_a_sound_sounds_tab_sw_png__WEBPACK_IMPORTED_MODULE_113__ = __webpack_require__(2947);
 /* harmony import */ var _steps_record_a_sound_sounds_tab_sw_png__WEBPACK_IMPORTED_MODULE_113___default = /*#__PURE__*/__webpack_require__.n(_steps_record_a_sound_sounds_tab_sw_png__WEBPACK_IMPORTED_MODULE_113__);
-/* harmony import */ var _steps_record_a_sound_click_record_sw_png__WEBPACK_IMPORTED_MODULE_114__ = __webpack_require__(2968);
+/* harmony import */ var _steps_record_a_sound_click_record_sw_png__WEBPACK_IMPORTED_MODULE_114__ = __webpack_require__(2948);
 /* harmony import */ var _steps_record_a_sound_click_record_sw_png__WEBPACK_IMPORTED_MODULE_114___default = /*#__PURE__*/__webpack_require__.n(_steps_record_a_sound_click_record_sw_png__WEBPACK_IMPORTED_MODULE_114__);
-/* harmony import */ var _steps_record_a_sound_press_record_button_sw_png__WEBPACK_IMPORTED_MODULE_115__ = __webpack_require__(2969);
+/* harmony import */ var _steps_record_a_sound_press_record_button_sw_png__WEBPACK_IMPORTED_MODULE_115__ = __webpack_require__(2949);
 /* harmony import */ var _steps_record_a_sound_press_record_button_sw_png__WEBPACK_IMPORTED_MODULE_115___default = /*#__PURE__*/__webpack_require__.n(_steps_record_a_sound_press_record_button_sw_png__WEBPACK_IMPORTED_MODULE_115__);
-/* harmony import */ var _steps_record_a_sound_choose_sound_sw_png__WEBPACK_IMPORTED_MODULE_116__ = __webpack_require__(2970);
+/* harmony import */ var _steps_record_a_sound_choose_sound_sw_png__WEBPACK_IMPORTED_MODULE_116__ = __webpack_require__(2950);
 /* harmony import */ var _steps_record_a_sound_choose_sound_sw_png__WEBPACK_IMPORTED_MODULE_116___default = /*#__PURE__*/__webpack_require__.n(_steps_record_a_sound_choose_sound_sw_png__WEBPACK_IMPORTED_MODULE_116__);
-/* harmony import */ var _steps_record_a_sound_play_your_sound_sw_png__WEBPACK_IMPORTED_MODULE_117__ = __webpack_require__(2971);
+/* harmony import */ var _steps_record_a_sound_play_your_sound_sw_png__WEBPACK_IMPORTED_MODULE_117__ = __webpack_require__(2951);
 /* harmony import */ var _steps_record_a_sound_play_your_sound_sw_png__WEBPACK_IMPORTED_MODULE_117___default = /*#__PURE__*/__webpack_require__.n(_steps_record_a_sound_play_your_sound_sw_png__WEBPACK_IMPORTED_MODULE_117__);
-/* harmony import */ var _steps_move_arrow_keys_left_right_sw_png__WEBPACK_IMPORTED_MODULE_118__ = __webpack_require__(2972);
+/* harmony import */ var _steps_move_arrow_keys_left_right_sw_png__WEBPACK_IMPORTED_MODULE_118__ = __webpack_require__(2952);
 /* harmony import */ var _steps_move_arrow_keys_left_right_sw_png__WEBPACK_IMPORTED_MODULE_118___default = /*#__PURE__*/__webpack_require__.n(_steps_move_arrow_keys_left_right_sw_png__WEBPACK_IMPORTED_MODULE_118__);
-/* harmony import */ var _steps_move_arrow_keys_up_down_sw_png__WEBPACK_IMPORTED_MODULE_119__ = __webpack_require__(2973);
+/* harmony import */ var _steps_move_arrow_keys_up_down_sw_png__WEBPACK_IMPORTED_MODULE_119__ = __webpack_require__(2953);
 /* harmony import */ var _steps_move_arrow_keys_up_down_sw_png__WEBPACK_IMPORTED_MODULE_119___default = /*#__PURE__*/__webpack_require__.n(_steps_move_arrow_keys_up_down_sw_png__WEBPACK_IMPORTED_MODULE_119__);
-/* harmony import */ var _steps_glide_around_back_and_forth_sw_png__WEBPACK_IMPORTED_MODULE_120__ = __webpack_require__(2974);
+/* harmony import */ var _steps_glide_around_back_and_forth_sw_png__WEBPACK_IMPORTED_MODULE_120__ = __webpack_require__(2954);
 /* harmony import */ var _steps_glide_around_back_and_forth_sw_png__WEBPACK_IMPORTED_MODULE_120___default = /*#__PURE__*/__webpack_require__.n(_steps_glide_around_back_and_forth_sw_png__WEBPACK_IMPORTED_MODULE_120__);
-/* harmony import */ var _steps_glide_around_point_sw_png__WEBPACK_IMPORTED_MODULE_121__ = __webpack_require__(2975);
+/* harmony import */ var _steps_glide_around_point_sw_png__WEBPACK_IMPORTED_MODULE_121__ = __webpack_require__(2955);
 /* harmony import */ var _steps_glide_around_point_sw_png__WEBPACK_IMPORTED_MODULE_121___default = /*#__PURE__*/__webpack_require__.n(_steps_glide_around_point_sw_png__WEBPACK_IMPORTED_MODULE_121__);
-/* harmony import */ var _steps_code_cartoon_01_say_something_sw_png__WEBPACK_IMPORTED_MODULE_122__ = __webpack_require__(2976);
+/* harmony import */ var _steps_code_cartoon_01_say_something_sw_png__WEBPACK_IMPORTED_MODULE_122__ = __webpack_require__(2956);
 /* harmony import */ var _steps_code_cartoon_01_say_something_sw_png__WEBPACK_IMPORTED_MODULE_122___default = /*#__PURE__*/__webpack_require__.n(_steps_code_cartoon_01_say_something_sw_png__WEBPACK_IMPORTED_MODULE_122__);
-/* harmony import */ var _steps_code_cartoon_02_animate_sw_png__WEBPACK_IMPORTED_MODULE_123__ = __webpack_require__(2977);
+/* harmony import */ var _steps_code_cartoon_02_animate_sw_png__WEBPACK_IMPORTED_MODULE_123__ = __webpack_require__(2957);
 /* harmony import */ var _steps_code_cartoon_02_animate_sw_png__WEBPACK_IMPORTED_MODULE_123___default = /*#__PURE__*/__webpack_require__.n(_steps_code_cartoon_02_animate_sw_png__WEBPACK_IMPORTED_MODULE_123__);
-/* harmony import */ var _steps_code_cartoon_03_select_different_character_LTR_png__WEBPACK_IMPORTED_MODULE_124__ = __webpack_require__(577);
+/* harmony import */ var _steps_code_cartoon_03_select_different_character_LTR_png__WEBPACK_IMPORTED_MODULE_124__ = __webpack_require__(576);
 /* harmony import */ var _steps_code_cartoon_03_select_different_character_LTR_png__WEBPACK_IMPORTED_MODULE_124___default = /*#__PURE__*/__webpack_require__.n(_steps_code_cartoon_03_select_different_character_LTR_png__WEBPACK_IMPORTED_MODULE_124__);
-/* harmony import */ var _steps_code_cartoon_04_use_minus_sign_sw_png__WEBPACK_IMPORTED_MODULE_125__ = __webpack_require__(2978);
+/* harmony import */ var _steps_code_cartoon_04_use_minus_sign_sw_png__WEBPACK_IMPORTED_MODULE_125__ = __webpack_require__(2958);
 /* harmony import */ var _steps_code_cartoon_04_use_minus_sign_sw_png__WEBPACK_IMPORTED_MODULE_125___default = /*#__PURE__*/__webpack_require__.n(_steps_code_cartoon_04_use_minus_sign_sw_png__WEBPACK_IMPORTED_MODULE_125__);
-/* harmony import */ var _steps_code_cartoon_05_grow_shrink_sw_png__WEBPACK_IMPORTED_MODULE_126__ = __webpack_require__(2979);
+/* harmony import */ var _steps_code_cartoon_05_grow_shrink_sw_png__WEBPACK_IMPORTED_MODULE_126__ = __webpack_require__(2959);
 /* harmony import */ var _steps_code_cartoon_05_grow_shrink_sw_png__WEBPACK_IMPORTED_MODULE_126___default = /*#__PURE__*/__webpack_require__.n(_steps_code_cartoon_05_grow_shrink_sw_png__WEBPACK_IMPORTED_MODULE_126__);
-/* harmony import */ var _steps_code_cartoon_06_select_another_different_character_LTR_png__WEBPACK_IMPORTED_MODULE_127__ = __webpack_require__(578);
+/* harmony import */ var _steps_code_cartoon_06_select_another_different_character_LTR_png__WEBPACK_IMPORTED_MODULE_127__ = __webpack_require__(577);
 /* harmony import */ var _steps_code_cartoon_06_select_another_different_character_LTR_png__WEBPACK_IMPORTED_MODULE_127___default = /*#__PURE__*/__webpack_require__.n(_steps_code_cartoon_06_select_another_different_character_LTR_png__WEBPACK_IMPORTED_MODULE_127__);
-/* harmony import */ var _steps_code_cartoon_07_jump_sw_png__WEBPACK_IMPORTED_MODULE_128__ = __webpack_require__(2980);
+/* harmony import */ var _steps_code_cartoon_07_jump_sw_png__WEBPACK_IMPORTED_MODULE_128__ = __webpack_require__(2960);
 /* harmony import */ var _steps_code_cartoon_07_jump_sw_png__WEBPACK_IMPORTED_MODULE_128___default = /*#__PURE__*/__webpack_require__.n(_steps_code_cartoon_07_jump_sw_png__WEBPACK_IMPORTED_MODULE_128__);
-/* harmony import */ var _steps_code_cartoon_08_change_scenes_sw_png__WEBPACK_IMPORTED_MODULE_129__ = __webpack_require__(2981);
+/* harmony import */ var _steps_code_cartoon_08_change_scenes_sw_png__WEBPACK_IMPORTED_MODULE_129__ = __webpack_require__(2961);
 /* harmony import */ var _steps_code_cartoon_08_change_scenes_sw_png__WEBPACK_IMPORTED_MODULE_129___default = /*#__PURE__*/__webpack_require__.n(_steps_code_cartoon_08_change_scenes_sw_png__WEBPACK_IMPORTED_MODULE_129__);
-/* harmony import */ var _steps_code_cartoon_09_glide_around_sw_png__WEBPACK_IMPORTED_MODULE_130__ = __webpack_require__(2982);
+/* harmony import */ var _steps_code_cartoon_09_glide_around_sw_png__WEBPACK_IMPORTED_MODULE_130__ = __webpack_require__(2962);
 /* harmony import */ var _steps_code_cartoon_09_glide_around_sw_png__WEBPACK_IMPORTED_MODULE_130___default = /*#__PURE__*/__webpack_require__.n(_steps_code_cartoon_09_glide_around_sw_png__WEBPACK_IMPORTED_MODULE_130__);
-/* harmony import */ var _steps_code_cartoon_10_change_costumes_sw_png__WEBPACK_IMPORTED_MODULE_131__ = __webpack_require__(2983);
+/* harmony import */ var _steps_code_cartoon_10_change_costumes_sw_png__WEBPACK_IMPORTED_MODULE_131__ = __webpack_require__(2963);
 /* harmony import */ var _steps_code_cartoon_10_change_costumes_sw_png__WEBPACK_IMPORTED_MODULE_131___default = /*#__PURE__*/__webpack_require__.n(_steps_code_cartoon_10_change_costumes_sw_png__WEBPACK_IMPORTED_MODULE_131__);
-/* harmony import */ var _steps_code_cartoon_11_choose_more_characters_LTR_png__WEBPACK_IMPORTED_MODULE_132__ = __webpack_require__(579);
+/* harmony import */ var _steps_code_cartoon_11_choose_more_characters_LTR_png__WEBPACK_IMPORTED_MODULE_132__ = __webpack_require__(578);
 /* harmony import */ var _steps_code_cartoon_11_choose_more_characters_LTR_png__WEBPACK_IMPORTED_MODULE_132___default = /*#__PURE__*/__webpack_require__.n(_steps_code_cartoon_11_choose_more_characters_LTR_png__WEBPACK_IMPORTED_MODULE_132__);
-/* harmony import */ var _steps_talking_2_choose_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_133__ = __webpack_require__(580);
+/* harmony import */ var _steps_talking_2_choose_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_133__ = __webpack_require__(579);
 /* harmony import */ var _steps_talking_2_choose_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_133___default = /*#__PURE__*/__webpack_require__.n(_steps_talking_2_choose_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_133__);
-/* harmony import */ var _steps_talking_3_say_something_sw_png__WEBPACK_IMPORTED_MODULE_134__ = __webpack_require__(2984);
+/* harmony import */ var _steps_talking_3_say_something_sw_png__WEBPACK_IMPORTED_MODULE_134__ = __webpack_require__(2964);
 /* harmony import */ var _steps_talking_3_say_something_sw_png__WEBPACK_IMPORTED_MODULE_134___default = /*#__PURE__*/__webpack_require__.n(_steps_talking_3_say_something_sw_png__WEBPACK_IMPORTED_MODULE_134__);
-/* harmony import */ var _steps_talking_4_choose_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_135__ = __webpack_require__(581);
+/* harmony import */ var _steps_talking_4_choose_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_135__ = __webpack_require__(580);
 /* harmony import */ var _steps_talking_4_choose_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_135___default = /*#__PURE__*/__webpack_require__.n(_steps_talking_4_choose_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_135__);
-/* harmony import */ var _steps_talking_5_switch_backdrop_sw_png__WEBPACK_IMPORTED_MODULE_136__ = __webpack_require__(2985);
+/* harmony import */ var _steps_talking_5_switch_backdrop_sw_png__WEBPACK_IMPORTED_MODULE_136__ = __webpack_require__(2965);
 /* harmony import */ var _steps_talking_5_switch_backdrop_sw_png__WEBPACK_IMPORTED_MODULE_136___default = /*#__PURE__*/__webpack_require__.n(_steps_talking_5_switch_backdrop_sw_png__WEBPACK_IMPORTED_MODULE_136__);
-/* harmony import */ var _steps_talking_6_choose_another_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_137__ = __webpack_require__(582);
+/* harmony import */ var _steps_talking_6_choose_another_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_137__ = __webpack_require__(581);
 /* harmony import */ var _steps_talking_6_choose_another_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_137___default = /*#__PURE__*/__webpack_require__.n(_steps_talking_6_choose_another_sprite_LTR_png__WEBPACK_IMPORTED_MODULE_137__);
-/* harmony import */ var _steps_talking_7_move_around_sw_png__WEBPACK_IMPORTED_MODULE_138__ = __webpack_require__(2986);
+/* harmony import */ var _steps_talking_7_move_around_sw_png__WEBPACK_IMPORTED_MODULE_138__ = __webpack_require__(2966);
 /* harmony import */ var _steps_talking_7_move_around_sw_png__WEBPACK_IMPORTED_MODULE_138___default = /*#__PURE__*/__webpack_require__.n(_steps_talking_7_move_around_sw_png__WEBPACK_IMPORTED_MODULE_138__);
-/* harmony import */ var _steps_talking_8_choose_another_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_139__ = __webpack_require__(583);
+/* harmony import */ var _steps_talking_8_choose_another_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_139__ = __webpack_require__(582);
 /* harmony import */ var _steps_talking_8_choose_another_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_139___default = /*#__PURE__*/__webpack_require__.n(_steps_talking_8_choose_another_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_139__);
-/* harmony import */ var _steps_talking_9_animate_sw_png__WEBPACK_IMPORTED_MODULE_140__ = __webpack_require__(2987);
+/* harmony import */ var _steps_talking_9_animate_sw_png__WEBPACK_IMPORTED_MODULE_140__ = __webpack_require__(2967);
 /* harmony import */ var _steps_talking_9_animate_sw_png__WEBPACK_IMPORTED_MODULE_140___default = /*#__PURE__*/__webpack_require__.n(_steps_talking_9_animate_sw_png__WEBPACK_IMPORTED_MODULE_140__);
-/* harmony import */ var _steps_talking_10_choose_third_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_141__ = __webpack_require__(584);
+/* harmony import */ var _steps_talking_10_choose_third_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_141__ = __webpack_require__(583);
 /* harmony import */ var _steps_talking_10_choose_third_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_141___default = /*#__PURE__*/__webpack_require__.n(_steps_talking_10_choose_third_backdrop_LTR_png__WEBPACK_IMPORTED_MODULE_141__);
-/* harmony import */ var _steps_talking_11_choose_sound_sw_gif__WEBPACK_IMPORTED_MODULE_142__ = __webpack_require__(2988);
+/* harmony import */ var _steps_talking_11_choose_sound_sw_gif__WEBPACK_IMPORTED_MODULE_142__ = __webpack_require__(2968);
 /* harmony import */ var _steps_talking_11_choose_sound_sw_gif__WEBPACK_IMPORTED_MODULE_142___default = /*#__PURE__*/__webpack_require__.n(_steps_talking_11_choose_sound_sw_gif__WEBPACK_IMPORTED_MODULE_142__);
-/* harmony import */ var _steps_talking_12_dance_moves_sw_png__WEBPACK_IMPORTED_MODULE_143__ = __webpack_require__(2989);
+/* harmony import */ var _steps_talking_12_dance_moves_sw_png__WEBPACK_IMPORTED_MODULE_143__ = __webpack_require__(2969);
 /* harmony import */ var _steps_talking_12_dance_moves_sw_png__WEBPACK_IMPORTED_MODULE_143___default = /*#__PURE__*/__webpack_require__.n(_steps_talking_12_dance_moves_sw_png__WEBPACK_IMPORTED_MODULE_143__);
-/* harmony import */ var _steps_talking_13_ask_and_answer_sw_png__WEBPACK_IMPORTED_MODULE_144__ = __webpack_require__(2990);
+/* harmony import */ var _steps_talking_13_ask_and_answer_sw_png__WEBPACK_IMPORTED_MODULE_144__ = __webpack_require__(2970);
 /* harmony import */ var _steps_talking_13_ask_and_answer_sw_png__WEBPACK_IMPORTED_MODULE_144___default = /*#__PURE__*/__webpack_require__.n(_steps_talking_13_ask_and_answer_sw_png__WEBPACK_IMPORTED_MODULE_144__);
 // Intro
 
