@@ -1,0 +1,71 @@
+name: Publish
+
+on:
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - 'README.md'
+      - 'doc/*'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14.x'
+
+      - run: npm ci
+
+      - name: Lint
+        run: npm run test:lint -- --quiet --output-file test-results/eslint/results.xml --format junit
+
+      - name: Unit
+        env:
+          JEST_JUNIT_OUTPUT_DIR: test-results/unit
+        run: npm run test:unit -- --reporters="default" --reporters="jest-junit" --coverage --coverageReporters=text --coverageReporters=lcov --maxWorkers="2"
+
+      - name: Build
+        env:
+          NODE_ENV: production
+          GA_ID: ${{ secrets.GA_ID_ONLINE }}
+          NODE_OPTIONS: --max-old-space-size=4000
+        run: npm run build
+
+      - name: get-npm-version
+        id: package-version
+        uses: martinbeentjes/npm-get-version-action@master
+
+      - name: Set package version
+        run: |
+          export RELEASE_VERSION=${{ steps.package-version.outputs.current-version }}-prerelease.$(date +'%Y%m%d%H%M%S')
+          npm --no-git-tag-version version $RELEASE_VERSION
+
+      - uses: JS-DevTools/npm-publish@v1
+        with:
+          token: ${{ secrets.NPM_TOKEN }}
+
+      - name: Push tag
+        run: |
+          git tag $RELEASE_VERSION
+          git push https://github.com/$GITHUB_REPOSITORY.git $RELEASE_VERSION
+
+      - name: Deploy gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          git config --global user.email $(git log --pretty=format:"%ae" -n1)
+          git config --global user.name $(git log --pretty=format:"%an" -n1)
+          npm run deploy -- -e $GITHUB_REF_NAME
+
+      - name: Push translations
+        env:
+          TX_TOKEN: ${{ secrets.TX_TOKEN }}
+        run: |
+          npm run i18n:src
+          npm run i18n:push
+
+
