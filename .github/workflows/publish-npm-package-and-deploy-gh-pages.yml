@@ -105,14 +105,10 @@ jobs:
           git remote add origin-translation https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/$GITHUB_REPOSITORY
           git push --set-upstream origin-translation develop
 
-      - name: Set GA ID
-        if: ${{ github.ref == 'refs/heads/develop' }}
-        run: |
-          echo "GA_ID=${{ secrets.GA_ID_ONLINE }}" >> $GITHUB_ENV
-
       - name: Build
         env:
           NODE_ENV: production
+          GA_ID: ${{ secrets.GA_ID_ONLINE }}
           NODE_OPTIONS: --max-old-space-size=4000
         run: npm run build
 
